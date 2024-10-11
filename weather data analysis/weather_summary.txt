@@ -1,0 +1,5 @@
+Weather Summary
+-----------------
+Average Temperature: NaN°C
+Average Humidity: NaN%
+Total Precipitation: NaN mm
